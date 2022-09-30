@@ -1,2 +1,2 @@
 # BelfiusTraining
-Git is the cool
+Git is new to me!
