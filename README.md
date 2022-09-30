@@ -1,2 +1,2 @@
 # BelfiusTraining
-Git is the cool
+2 cool for school
